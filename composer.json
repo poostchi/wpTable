@@ -1,0 +1,21 @@
+{
+    "description": "Lovely Table Plugin for WordPress",
+    "license": "GPL-2.0+",
+    "type": "wordpress-plugin",
+	
+    "require-dev": {
+        "inpsyde/php-coding-standards": "^1@dev",
+        "brain/monkey": "2.*",
+        "phpunit/phpunit": "^7.5",
+		"guzzlehttp/guzzle": "^6.5"
+    },
+	
+	"autoload": {
+        "psr-4": {
+            "LovelyTable\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^7.1"
+    }
+}
