@@ -2,11 +2,11 @@
 
 /**
  * Plugin Name: WP Lovely Table
- * Plugin URI:
- * Description: A Lovely HTML Users Table (Demo Project for Inpsyde)
+ * Plugin URI: https://github.com/poostchi/wpTable
+ * Description: A Lovely HTML Users Table
  * Version: 0.1
  * Author: Ali Poostchi
- * Author URI:
+ * Author URI:https://github.com/poostchi
  * License: MIT
  */
 
